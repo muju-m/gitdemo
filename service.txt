@@ -4,3 +4,6 @@ assist users with their needs
 
 user can request for services
 service is provided for both user and admin
+
+new service updated for feature 2
+admin can change user password
