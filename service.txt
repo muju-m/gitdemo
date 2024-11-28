@@ -1,3 +1,6 @@
 services provided
 maintain and develop databases
 assist users with their needs
+
+user can request for services
+service is provided for both user and admin
