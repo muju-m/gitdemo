@@ -4,3 +4,5 @@ create or delete user
 manage database
 
 admin can edit user details
+managing the database connection
+closing the connection
