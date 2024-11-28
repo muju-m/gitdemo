@@ -2,3 +2,5 @@ user roles
 develop programs
 fill databases
 create username and password
+
+user should reset password

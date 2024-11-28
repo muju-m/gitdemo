@@ -2,3 +2,5 @@ admin roles
 allow user access
 create or delete user
 manage database
+
+admin can edit user details
