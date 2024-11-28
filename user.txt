@@ -4,3 +4,6 @@ fill databases
 create username and password
 
 user should reset password
+
+user can set avatar
+user can edit values in database
